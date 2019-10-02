@@ -1,0 +1,12 @@
+description "House-of-Mais apps meta location\377";
+
+uses
+	utilfuncs;
+
+file
+	HoM.h,
+	HoM.cpp;
+
+mainconfig
+	"" = "";
+
